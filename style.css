@@ -1,0 +1,13 @@
+header{
+    background-color: #FFF9F4 ;
+}
+.casual-shoes img{
+    background-color: rgb(232, 237, 241);
+    margin: 20px;
+    width: 90%;
+    border-radius: 10px;
+}
+.col .card{
+    box-shadow: 5px 5px 50px rgba(128, 128, 128, 0.39);
+    border-radius: 10px;
+}
